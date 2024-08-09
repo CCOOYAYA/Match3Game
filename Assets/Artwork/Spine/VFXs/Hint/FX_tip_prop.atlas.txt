@@ -1,0 +1,358 @@
+FX_tip_prop.png
+	size: 2048, 1966
+	filter: Linear, Linear
+	pma: true
+XL/fx_tips1/fx_tips_005
+	bounds: 1216, 261, 125, 121
+	offsets: 267, 293, 657, 721
+XL/fx_tips1/fx_tips_012
+	bounds: 496, 618, 131, 127
+	offsets: 264, 290, 657, 721
+XL/fx_tips1/fx_tips_013
+	bounds: 363, 23, 130, 129
+	offsets: 265, 289, 657, 721
+XL/fx_tips1/fx_tips_014
+	bounds: 495, 22, 130, 129
+	offsets: 265, 289, 657, 721
+	rotate: 90
+XL/fx_tips2/fx_tips2_013
+	bounds: 1706, 748, 247, 129
+	offsets: 207, 289, 657, 721
+XL/fx_tips2/fx_tips2_014
+	bounds: 1701, 2, 246, 129
+	offsets: 207, 289, 657, 721
+XL/fx_tips2/fx_tips2_015
+	bounds: 726, 13, 247, 129
+	offsets: 207, 289, 657, 721
+	rotate: 90
+XL/fx_tips3/fx_tips3_007
+	bounds: 859, 1242, 356, 359
+	offsets: 151, 174, 657, 721
+	rotate: 90
+XL/fx_tips3/fx_tips3_008
+	bounds: 497, 1242, 356, 360
+	offsets: 151, 174, 657, 721
+	rotate: 90
+XL/fx_tips3/fx_tips3_009
+	bounds: 1686, 879, 358, 362
+	offsets: 150, 173, 657, 721
+XL/fx_tips3/fx_tips3_010
+	bounds: 2, 18, 359, 362
+	offsets: 150, 173, 657, 721
+XL/fx_tips3/fx_tips3_011
+	bounds: 1322, 881, 359, 362
+	offsets: 150, 173, 657, 721
+	rotate: 90
+XL/fx_tips3/fx_tips3_012
+	bounds: 960, 876, 360, 364
+	offsets: 150, 172, 657, 721
+XL/fx_tips3/fx_tips3_013
+	bounds: 1220, 1242, 360, 364
+	offsets: 149, 172, 657, 721
+	rotate: 90
+XL/fx_tips3/fx_tips3_014
+	bounds: 598, 1600, 361, 364
+	offsets: 149, 172, 657, 721
+XL/fx_tips3/fx_tips3_015
+	bounds: 961, 1604, 360, 365
+	offsets: 149, 171, 657, 721
+	rotate: 90
+XL/fx_tips3/fx_tips3_016
+	bounds: 1328, 1604, 360, 364
+	offsets: 149, 172, 657, 721
+	rotate: 90
+XL/fx_tips4/fx_tips4_012
+	bounds: 726, 262, 483, 129
+	offsets: 89, 289, 657, 721
+	rotate: 90
+XL/fx_tips4/fx_tips4_013
+	bounds: 1216, 3, 483, 128
+	offsets: 89, 290, 657, 721
+XL/fx_tips4/fx_tips4_014
+	bounds: 1221, 745, 483, 129
+	offsets: 89, 289, 657, 721
+XL/fx_tips4/fx_tips4_015
+	bounds: 1221, 614, 482, 129
+	offsets: 90, 289, 657, 721
+XL/fx_tips4/fx_tips4_016
+	bounds: 1705, 261, 482, 129
+	offsets: 90, 289, 657, 721
+	rotate: 90
+XL/fx_tips5/fx_tips5_010
+	bounds: 1836, 154, 592, 126
+	offsets: 33, 290, 657, 721
+	rotate: 90
+XL/fx_tips5/fx_tips5_011
+	bounds: 1216, 133, 592, 126
+	offsets: 34, 290, 657, 721
+XL/fx_tips5/fx_tips5_012
+	bounds: 857, 384, 593, 128
+	offsets: 33, 289, 657, 721
+XL/fx_tips5/fx_tips5_013
+	bounds: 2, 1837, 594, 127
+	offsets: 33, 290, 657, 721
+XL/fx_tips5/fx_tips5_014
+	bounds: 365, 1111, 593, 129
+	offsets: 33, 289, 657, 721
+XL/fx_tips5/fx_tips5_015
+	bounds: 365, 517, 592, 129
+	offsets: 34, 289, 657, 721
+	rotate: 90
+XL/fx_tips5/fx_tips5_016
+	bounds: 365, 1242, 593, 130
+	offsets: 34, 288, 657, 721
+	rotate: 90
+XL/fx_tips6/fx_tips6_002
+	bounds: 1694, 1611, 353, 352
+	offsets: 153, 178, 657, 721
+	rotate: 90
+XL/fx_tips6/fx_tips6_008
+	bounds: 857, 25, 357, 357
+	offsets: 151, 175, 657, 721
+XL/fx_tips6/fx_tips6_009
+	bounds: 1586, 1243, 359, 359
+	offsets: 150, 174, 657, 721
+XL/fx_tips6/fx_tips6_010
+	bounds: 2, 746, 362, 360
+	offsets: 149, 174, 657, 721
+	rotate: 90
+XL/fx_tips6/fx_tips6_011
+	bounds: 858, 514, 361, 360
+	offsets: 149, 174, 657, 721
+XL/fx_tips6/fx_tips6_012
+	bounds: 364, 154, 361, 360
+	offsets: 150, 173, 657, 721
+	rotate: 90
+XL/fx_tips6/fx_tips6_013
+	bounds: 2, 382, 362, 360
+	offsets: 149, 174, 657, 721
+	rotate: 90
+XL/fx_tips6/fx_tips6_014
+	bounds: 496, 747, 362, 360
+	offsets: 149, 174, 657, 721
+	rotate: 90
+XL/fx_tips6/fx_tips6_015
+	bounds: 2, 1473, 362, 361
+	offsets: 149, 173, 657, 721
+	rotate: 90
+XL/fx_tips6/fx_tips6_016
+	bounds: 2, 1110, 361, 361
+	offsets: 149, 173, 657, 721
+XL/fx_tips7/fx_tips7_013
+	bounds: 1452, 364, 247, 248
+	offsets: 209, 233, 657, 721
+
+FX_tip_prop_2.png
+	size: 2018, 2033
+	filter: Linear, Linear
+	pma: true
+XL/fx_tips1/fx_tips_002
+	bounds: 967, 1786, 122, 119
+	offsets: 269, 294, 657, 721
+XL/fx_tips1/fx_tips_003
+	bounds: 1708, 180, 123, 120
+	offsets: 268, 293, 657, 721
+	rotate: 90
+XL/fx_tips1/fx_tips_004
+	bounds: 1703, 305, 124, 121
+	offsets: 268, 293, 657, 721
+	rotate: 90
+XL/fx_tips1/fx_tips_006
+	bounds: 1706, 55, 125, 123
+	offsets: 267, 292, 657, 721
+XL/fx_tips1/fx_tips_007
+	bounds: 1830, 180, 125, 123
+	offsets: 267, 292, 657, 721
+XL/fx_tips1/fx_tips_008
+	bounds: 1826, 305, 126, 123
+	offsets: 267, 292, 657, 721
+XL/fx_tips1/fx_tips_009
+	bounds: 1836, 430, 129, 126
+	offsets: 265, 290, 657, 721
+	rotate: 90
+XL/fx_tips1/fx_tips_010
+	bounds: 1833, 52, 129, 126
+	offsets: 265, 290, 657, 721
+XL/fx_tips1/fx_tips_011
+	bounds: 1554, 1656, 130, 128
+	offsets: 265, 290, 657, 721
+XL/fx_tips1/fx_tips_015
+	bounds: 1314, 31, 130, 129
+	offsets: 265, 289, 657, 721
+XL/fx_tips1/fx_tips_016
+	bounds: 1704, 431, 130, 128
+	offsets: 265, 289, 657, 721
+XL/fx_tips2/fx_tips2_002
+	bounds: 1450, 1535, 238, 119
+	offsets: 211, 294, 657, 721
+XL/fx_tips2/fx_tips2_003
+	bounds: 1465, 60, 239, 120
+	offsets: 211, 293, 657, 721
+XL/fx_tips2/fx_tips2_004
+	bounds: 1463, 672, 241, 121
+	offsets: 210, 293, 657, 721
+XL/fx_tips2/fx_tips2_005
+	bounds: 1465, 182, 241, 121
+	offsets: 210, 293, 657, 721
+XL/fx_tips2/fx_tips2_006
+	bounds: 1461, 547, 241, 123
+	offsets: 210, 292, 657, 721
+XL/fx_tips2/fx_tips2_007
+	bounds: 1444, 1285, 242, 123
+	offsets: 209, 292, 657, 721
+XL/fx_tips2/fx_tips2_008
+	bounds: 1445, 1410, 243, 123
+	offsets: 209, 292, 657, 721
+XL/fx_tips2/fx_tips2_009
+	bounds: 357, 125, 247, 126
+	offsets: 207, 290, 657, 721
+XL/fx_tips2/fx_tips2_010
+	bounds: 1690, 1043, 246, 127
+	offsets: 207, 290, 657, 721
+XL/fx_tips2/fx_tips2_011
+	bounds: 967, 162, 247, 128
+	offsets: 207, 290, 657, 721
+XL/fx_tips2/fx_tips2_012
+	bounds: 1690, 1415, 248, 127
+	offsets: 206, 290, 657, 721
+XL/fx_tips2/fx_tips2_016
+	bounds: 1216, 162, 247, 128
+	offsets: 207, 289, 657, 721
+XL/fx_tips3/fx_tips3_002
+	bounds: 609, 125, 351, 356
+	offsets: 154, 176, 657, 721
+	rotate: 90
+XL/fx_tips3/fx_tips3_003
+	bounds: 609, 1191, 353, 357
+	offsets: 153, 175, 657, 721
+XL/fx_tips3/fx_tips3_004
+	bounds: 2, 106, 353, 358
+	offsets: 153, 175, 657, 721
+XL/fx_tips3/fx_tips3_005
+	bounds: 2, 1184, 355, 358
+	offsets: 152, 175, 657, 721
+XL/fx_tips3/fx_tips3_006
+	bounds: 2, 1544, 355, 360
+	offsets: 152, 174, 657, 721
+XL/fx_tips4/fx_tips4_002
+	bounds: 966, 1039, 474, 119
+	offsets: 93, 294, 657, 721
+XL/fx_tips4/fx_tips4_003
+	bounds: 487, 253, 475, 120
+	offsets: 93, 293, 657, 721
+	rotate: 90
+XL/fx_tips4/fx_tips4_004
+	bounds: 836, 2, 476, 121
+	offsets: 92, 293, 657, 721
+XL/fx_tips4/fx_tips4_005
+	bounds: 357, 2, 477, 121
+	offsets: 92, 293, 657, 721
+XL/fx_tips4/fx_tips4_006
+	bounds: 966, 1160, 477, 123
+	offsets: 92, 292, 657, 721
+XL/fx_tips4/fx_tips4_007
+	bounds: 964, 1285, 478, 123
+	offsets: 91, 292, 657, 721
+XL/fx_tips4/fx_tips4_008
+	bounds: 964, 1410, 479, 124
+	offsets: 91, 291, 657, 721
+XL/fx_tips4/fx_tips4_009
+	bounds: 360, 349, 480, 125
+	offsets: 90, 291, 657, 721
+	rotate: 90
+XL/fx_tips4/fx_tips4_010
+	bounds: 359, 831, 482, 126
+	offsets: 89, 290, 657, 721
+	rotate: 90
+XL/fx_tips4/fx_tips4_011
+	bounds: 967, 1536, 481, 127
+	offsets: 90, 290, 657, 721
+XL/fx_tips5/fx_tips5_002
+	bounds: 967, 1665, 585, 119
+	offsets: 37, 294, 657, 721
+XL/fx_tips5/fx_tips5_003
+	bounds: 487, 730, 585, 120
+	offsets: 37, 293, 657, 721
+	rotate: 90
+XL/fx_tips5/fx_tips5_004
+	bounds: 1186, 1786, 586, 121
+	offsets: 37, 293, 657, 721
+XL/fx_tips5/fx_tips5_005
+	bounds: 1186, 1909, 587, 122
+	offsets: 36, 292, 657, 721
+XL/fx_tips5/fx_tips5_006
+	bounds: 485, 1317, 587, 122
+	offsets: 36, 292, 657, 721
+	rotate: 90
+XL/fx_tips5/fx_tips5_007
+	bounds: 595, 1907, 589, 124
+	offsets: 35, 291, 657, 721
+XL/fx_tips5/fx_tips5_008
+	bounds: 359, 1315, 589, 124
+	offsets: 35, 291, 657, 721
+	rotate: 90
+XL/fx_tips5/fx_tips5_009
+	bounds: 2, 1906, 591, 125
+	offsets: 34, 291, 657, 721
+XL/fx_tips6/fx_tips6_003
+	bounds: 609, 478, 354, 354
+	offsets: 153, 177, 657, 721
+XL/fx_tips6/fx_tips6_004
+	bounds: 609, 834, 355, 355
+	offsets: 152, 176, 657, 721
+XL/fx_tips6/fx_tips6_005
+	bounds: 609, 1550, 356, 355
+	offsets: 152, 176, 657, 721
+XL/fx_tips6/fx_tips6_006
+	bounds: 2, 825, 357, 355
+	offsets: 151, 176, 657, 721
+	rotate: 90
+XL/fx_tips6/fx_tips6_007
+	bounds: 2, 466, 357, 356
+	offsets: 151, 176, 657, 721
+	rotate: 90
+XL/fx_tips7/fx_tips7_002
+	bounds: 1706, 561, 237, 239
+	offsets: 214, 237, 657, 721
+	rotate: 90
+XL/fx_tips7/fx_tips7_003
+	bounds: 1462, 305, 239, 240
+	offsets: 213, 237, 657, 721
+XL/fx_tips7/fx_tips7_004
+	bounds: 1706, 800, 239, 241
+	offsets: 213, 236, 657, 721
+XL/fx_tips7/fx_tips7_005
+	bounds: 1690, 1172, 241, 241
+	offsets: 212, 236, 657, 721
+XL/fx_tips7/fx_tips7_006
+	bounds: 1774, 1544, 241, 242
+	offsets: 212, 236, 657, 721
+	rotate: 90
+XL/fx_tips7/fx_tips7_007
+	bounds: 1463, 795, 241, 242
+	offsets: 212, 236, 657, 721
+XL/fx_tips7/fx_tips7_008
+	bounds: 1775, 1787, 241, 244
+	offsets: 212, 235, 657, 721
+XL/fx_tips7/fx_tips7_009
+	bounds: 1445, 1039, 243, 244
+	offsets: 211, 235, 657, 721
+XL/fx_tips7/fx_tips7_010
+	bounds: 1216, 790, 245, 247
+	offsets: 210, 233, 657, 721
+XL/fx_tips7/fx_tips7_011
+	bounds: 1213, 541, 246, 247
+	offsets: 209, 233, 657, 721
+XL/fx_tips7/fx_tips7_012
+	bounds: 966, 791, 246, 248
+	offsets: 210, 233, 657, 721
+	rotate: 90
+XL/fx_tips7/fx_tips7_014
+	bounds: 965, 541, 246, 248
+	offsets: 210, 233, 657, 721
+XL/fx_tips7/fx_tips7_015
+	bounds: 967, 292, 246, 247
+	offsets: 210, 233, 657, 721
+XL/fx_tips7/fx_tips7_016
+	bounds: 1215, 292, 245, 247
+	offsets: 210, 233, 657, 721

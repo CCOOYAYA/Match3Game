@@ -1,0 +1,296 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73d0f40ebb1128348aad9313fc80b051, type: 3}
+  m_Name: DefinedPieceConfig
+  m_EditorClassIdentifier: 
+  allRegisteredPieces:
+    _serializedList:
+    - Key: 1
+      Value:
+        pieceId: 1
+        piecePrefab: {fileID: 8112813930995220659, guid: 98358ac81500f5c468274b76fbd1d2d2, type: 3}
+        pieceInsArgs:
+          pieceRotation: {x: 0, y: 0, z: 0}
+          pieceSize: {x: 1, y: 1}
+          pieceTags: 0
+          pieceLayer: 0
+          pieceColors: 1
+          pieceClearNum: 1
+          pieceCanMove: 1
+          pieceCanUse: 0
+        pieceTargetReference:
+          collectId: 1
+          pieceCollectPrefab: {fileID: 3533778203509974492, guid: 58e3de633ddecbc4581a0eaefe0e1032, type: 3}
+          pieceLevelTargetSprite: {fileID: 21300000, guid: 67d66f548721d744fac2ae4737925bd0, type: 3}
+          pieceDialogTargetSprite: {fileID: 21300000, guid: e92b13f9d90996a4cb2579069c362067, type: 3}
+        pieceRewardReference:
+          rewardClearCoin: 0
+    - Key: 2
+      Value:
+        pieceId: 2
+        piecePrefab: {fileID: 2545410654951174274, guid: cc03bcdac1bdf30449af37d97823a8ed, type: 3}
+        pieceInsArgs:
+          pieceRotation: {x: 0, y: 0, z: 0}
+          pieceSize: {x: 1, y: 1}
+          pieceTags: 0
+          pieceLayer: 0
+          pieceColors: 2
+          pieceClearNum: 1
+          pieceCanMove: 1
+          pieceCanUse: 0
+        pieceTargetReference:
+          collectId: 2
+          pieceCollectPrefab: {fileID: 2063369345129181908, guid: f08d7d5fb7d22464296fd70c35fc3f31, type: 3}
+          pieceLevelTargetSprite: {fileID: 21300000, guid: 04efa02dde7693a49afa9a0d4cd1ebb2, type: 3}
+          pieceDialogTargetSprite: {fileID: 21300000, guid: c3a6042987215d14992f716313365e05, type: 3}
+        pieceRewardReference:
+          rewardClearCoin: 0
+    - Key: 3
+      Value:
+        pieceId: 3
+        piecePrefab: {fileID: 606352459588606162, guid: 3ce84d938616dff47bf68b66e875072b, type: 3}
+        pieceInsArgs:
+          pieceRotation: {x: 0, y: 0, z: 0}
+          pieceSize: {x: 1, y: 1}
+          pieceTags: 0
+          pieceLayer: 0
+          pieceColors: 4
+          pieceClearNum: 1
+          pieceCanMove: 1
+          pieceCanUse: 0
+        pieceTargetReference:
+          collectId: 3
+          pieceCollectPrefab: {fileID: 6953691602111057518, guid: cf6f01da4bac2fe41b1a97a8aabc8ad6, type: 3}
+          pieceLevelTargetSprite: {fileID: 21300000, guid: b23c7a351bfb6c0429f139758b9a0858, type: 3}
+          pieceDialogTargetSprite: {fileID: 21300000, guid: fd206b658e8652e4ca8c094ba32ed31c, type: 3}
+        pieceRewardReference:
+          rewardClearCoin: 0
+    - Key: 4
+      Value:
+        pieceId: 4
+        piecePrefab: {fileID: 528073721801521589, guid: e17f381f9bb22014589adfcbacf68748, type: 3}
+        pieceInsArgs:
+          pieceRotation: {x: 0, y: 0, z: 0}
+          pieceSize: {x: 1, y: 1}
+          pieceTags: 0
+          pieceLayer: 0
+          pieceColors: 8
+          pieceClearNum: 1
+          pieceCanMove: 1
+          pieceCanUse: 0
+        pieceTargetReference:
+          collectId: 4
+          pieceCollectPrefab: {fileID: 4704580227331313034, guid: 2309dad8034c50044a00e215c2fb0e93, type: 3}
+          pieceLevelTargetSprite: {fileID: 21300000, guid: 23eec6607761626418a182a894902cf8, type: 3}
+          pieceDialogTargetSprite: {fileID: 21300000, guid: 313a37e9a780916479ea2dbefecbf98e, type: 3}
+        pieceRewardReference:
+          rewardClearCoin: 0
+    - Key: 5
+      Value:
+        pieceId: 5
+        piecePrefab: {fileID: 6975795218938895694, guid: f9a31de35426326469eae03319844329, type: 3}
+        pieceInsArgs:
+          pieceRotation: {x: 0, y: 0, z: 0}
+          pieceSize: {x: 1, y: 1}
+          pieceTags: 0
+          pieceLayer: 0
+          pieceColors: 16
+          pieceClearNum: 1
+          pieceCanMove: 1
+          pieceCanUse: 0
+        pieceTargetReference:
+          collectId: 5
+          pieceCollectPrefab: {fileID: 1040846441597135938, guid: 4bfa6467aceff98439bddb50737bbf36, type: 3}
+          pieceLevelTargetSprite: {fileID: 21300000, guid: 78e4107dd1ad12f4c9c8778d4342e468, type: 3}
+          pieceDialogTargetSprite: {fileID: 21300000, guid: 04f4e370f084e3942961bfdc99342d44, type: 3}
+        pieceRewardReference:
+          rewardClearCoin: 0
+    - Key: 101
+      Value:
+        pieceId: 101
+        piecePrefab: {fileID: 8869995502509435462, guid: e2933571c70dafc46ac2b03f3ddab08b, type: 3}
+        pieceInsArgs:
+          pieceRotation: {x: 0, y: 0, z: 0}
+          pieceSize: {x: 1, y: 1}
+          pieceTags: 1
+          pieceLayer: 0
+          pieceColors: 0
+          pieceClearNum: 1
+          pieceCanMove: 0
+          pieceCanUse: 0
+        pieceTargetReference:
+          collectId: 101
+          pieceCollectPrefab: {fileID: 0}
+          pieceLevelTargetSprite: {fileID: 21300000, guid: 60601526d3d8ad64a9ae00bfa3d6cdcf, type: 3}
+          pieceDialogTargetSprite: {fileID: 21300000, guid: 08ff2ef2422da7f44ad6dbb5c3d3837c, type: 3}
+        pieceRewardReference:
+          rewardClearCoin: 0
+    - Key: 102
+      Value:
+        pieceId: 102
+        piecePrefab: {fileID: 708360495562954676, guid: ae011feaea7abd74393e73710c93b540, type: 3}
+        pieceInsArgs:
+          pieceRotation: {x: 0, y: 0, z: 0}
+          pieceSize: {x: 1, y: 1}
+          pieceTags: 2
+          pieceLayer: 1
+          pieceColors: 0
+          pieceClearNum: 1
+          pieceCanMove: 0
+          pieceCanUse: 0
+        pieceTargetReference:
+          collectId: 102
+          pieceCollectPrefab: {fileID: 0}
+          pieceLevelTargetSprite: {fileID: 21300000, guid: e6b82d4d1ca1b7b4bb52a6c0229698ec, type: 3}
+          pieceDialogTargetSprite: {fileID: 21300000, guid: 4b95823ae973f524a8e3735e217533f8, type: 3}
+        pieceRewardReference:
+          rewardClearCoin: 0
+    - Key: 103
+      Value:
+        pieceId: 103
+        piecePrefab: {fileID: 8670396179288721634, guid: 54854304fdabec84cb3ae45f304c0aac, type: 3}
+        pieceInsArgs:
+          pieceRotation: {x: 0, y: 0, z: 0}
+          pieceSize: {x: 2, y: 2}
+          pieceTags: 1
+          pieceLayer: 0
+          pieceColors: 0
+          pieceClearNum: 10
+          pieceCanMove: 0
+          pieceCanUse: 0
+        pieceTargetReference:
+          collectId: 1031
+          pieceCollectPrefab: {fileID: 0}
+          pieceLevelTargetSprite: {fileID: 21300000, guid: e6e3a48a35e6d6c40a298d3982715025, type: 3}
+          pieceDialogTargetSprite: {fileID: 21300000, guid: 0632866f40c05f34ab403a87b85e3eef, type: 3}
+        pieceRewardReference:
+          rewardClearCoin: 0
+    - Key: 1001
+      Value:
+        pieceId: 1001
+        piecePrefab: {fileID: 1247664122349452306, guid: 525d02d3ac60e33419c45ccb63d3ff3e, type: 3}
+        pieceInsArgs:
+          pieceRotation: {x: 0, y: 0, z: 0}
+          pieceSize: {x: 1, y: 1}
+          pieceTags: 0
+          pieceLayer: 0
+          pieceColors: 0
+          pieceClearNum: 1
+          pieceCanMove: 1
+          pieceCanUse: 1
+        pieceTargetReference:
+          collectId: 0
+          pieceCollectPrefab: {fileID: 0}
+          pieceLevelTargetSprite: {fileID: 0}
+          pieceDialogTargetSprite: {fileID: 0}
+        pieceRewardReference:
+          rewardClearCoin: 1
+    - Key: 1002
+      Value:
+        pieceId: 1002
+        piecePrefab: {fileID: 1343916511972098567, guid: 853969b799ab4154f876894d008b7121, type: 3}
+        pieceInsArgs:
+          pieceRotation: {x: 0, y: 0, z: 0}
+          pieceSize: {x: 1, y: 1}
+          pieceTags: 0
+          pieceLayer: 0
+          pieceColors: 0
+          pieceClearNum: 1
+          pieceCanMove: 1
+          pieceCanUse: 1
+        pieceTargetReference:
+          collectId: 0
+          pieceCollectPrefab: {fileID: 0}
+          pieceLevelTargetSprite: {fileID: 0}
+          pieceDialogTargetSprite: {fileID: 0}
+        pieceRewardReference:
+          rewardClearCoin: 3
+    - Key: 1003
+      Value:
+        pieceId: 1003
+        piecePrefab: {fileID: 972991352373985691, guid: 45a3c36a8c353534d8ac30ef77c59bea, type: 3}
+        pieceInsArgs:
+          pieceRotation: {x: 0, y: 0, z: 0}
+          pieceSize: {x: 1, y: 1}
+          pieceTags: 0
+          pieceLayer: 0
+          pieceColors: 0
+          pieceClearNum: 1
+          pieceCanMove: 1
+          pieceCanUse: 1
+        pieceTargetReference:
+          collectId: 0
+          pieceCollectPrefab: {fileID: 0}
+          pieceLevelTargetSprite: {fileID: 0}
+          pieceDialogTargetSprite: {fileID: 0}
+        pieceRewardReference:
+          rewardClearCoin: 2
+    - Key: 1004
+      Value:
+        pieceId: 1004
+        piecePrefab: {fileID: 945837880663792416, guid: bb787231bba1feb4683d74401c7bf5e8, type: 3}
+        pieceInsArgs:
+          pieceRotation: {x: 0, y: 0, z: 90}
+          pieceSize: {x: 1, y: 1}
+          pieceTags: 0
+          pieceLayer: 0
+          pieceColors: 0
+          pieceClearNum: 1
+          pieceCanMove: 1
+          pieceCanUse: 1
+        pieceTargetReference:
+          collectId: 0
+          pieceCollectPrefab: {fileID: 0}
+          pieceLevelTargetSprite: {fileID: 0}
+          pieceDialogTargetSprite: {fileID: 0}
+        pieceRewardReference:
+          rewardClearCoin: 2
+    - Key: 1005
+      Value:
+        pieceId: 1005
+        piecePrefab: {fileID: 7503557704104810067, guid: f6e16674ba7f7f34994b2b6a2873a590, type: 3}
+        pieceInsArgs:
+          pieceRotation: {x: 0, y: 0, z: 0}
+          pieceSize: {x: 1, y: 1}
+          pieceTags: 0
+          pieceLayer: 0
+          pieceColors: 0
+          pieceClearNum: 1
+          pieceCanMove: 1
+          pieceCanUse: 1
+        pieceTargetReference:
+          collectId: 0
+          pieceCollectPrefab: {fileID: 0}
+          pieceLevelTargetSprite: {fileID: 0}
+          pieceDialogTargetSprite: {fileID: 0}
+        pieceRewardReference:
+          rewardClearCoin: 4
+    - Key: 9999
+      Value:
+        pieceId: 9999
+        piecePrefab: {fileID: 0}
+        pieceInsArgs:
+          pieceRotation: {x: 0, y: 0, z: 0}
+          pieceSize: {x: 0, y: 0}
+          pieceTags: 0
+          pieceLayer: 0
+          pieceColors: 0
+          pieceClearNum: 0
+          pieceCanMove: 0
+          pieceCanUse: 0
+        pieceTargetReference:
+          collectId: 9999
+          pieceCollectPrefab: {fileID: 7005766306752546502, guid: 7a6da74195427794ab888520d6c0f5d6, type: 3}
+          pieceLevelTargetSprite: {fileID: 21300000, guid: cb2443d90c17a854eb39c5e3f3999b51, type: 3}
+          pieceDialogTargetSprite: {fileID: 0}
+        pieceRewardReference:
+          rewardClearCoin: 1

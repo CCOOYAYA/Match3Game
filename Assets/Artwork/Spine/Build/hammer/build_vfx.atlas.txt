@@ -1,0 +1,10 @@
+build_vfx.png
+size:212,132
+filter:Linear,Linear
+pma:true
+chuiiz
+bounds:136,37,74,93
+offsets:26,21,116,139
+yun
+bounds:2,2,132,128
+offsets:1,1,135,131

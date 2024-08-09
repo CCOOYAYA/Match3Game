@@ -1,0 +1,360 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Text Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Text
+  m_TableCollectionNameGuidString: 5afc7817261a7b341a3a6ddb52342acd
+  m_Entries:
+  - m_Id: 7664429875200
+    m_Key: Name_Rocket
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7747691003904
+    m_Key: Description_Rocket
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8373783150592
+    m_Key: Name_Bomb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8498270093312
+    m_Key: Description_Bomb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8789996519424
+    m_Key: Name_Lightball
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8880727703552
+    m_Key: Description_Lightball
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9009706745856
+    m_Key: Name_Hammer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9101075464192
+    m_Key: Description_Hammer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9223784022016
+    m_Key: Name_Gun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9264787537920
+    m_Key: Description_Gun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9375114510336
+    m_Key: Name_Cannon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9434472300544
+    m_Key: Description_Cannon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9530874183680
+    m_Key: Name_Dice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9591406379008
+    m_Key: Description_Dice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14109791666176
+    m_Key: Buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18711492608000
+    m_Key: Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29178973831168
+    m_Key: Hardlevel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29181314252800
+    m_Key: SuperHardLevel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29426425184256
+    m_Key: Goal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29451922358272
+    m_Key: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29498697236480
+    m_Key: BoosterSelect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30542177157120
+    m_Key: Reward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 339840195280896
+    m_Key: Shop_removeAds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 344046067171328
+    m_Key: Shop_Chance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 344633471057920
+    m_Key: Shop_More
+    m_Metadata:
+      m_Items: []
+  - m_Id: 357962788814848
+    m_Key: StarterBundle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 357970405670912
+    m_Key: ValuedBundle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 357971546521600
+    m_Key: PremiumBundle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 358438460637184
+    m_Key: LuxuryBundle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 358440973025280
+    m_Key: LegendaryBundle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 358442680107008
+    m_Key: SupremeBundle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369031989084160
+    m_Key: Shop_Popular
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369035474550784
+    m_Key: Shop_Best
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380505742557184
+    m_Key: Shop_MoreOffer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 696826711687168
+    m_Key: Quit_long
+    m_Metadata:
+      m_Items: []
+  - m_Id: 696901357715456
+    m_Key: Quit_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 696928905904128
+    m_Key: Quit_Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 717523160842240
+    m_Key: BuyLife_banner_home
+    m_Metadata:
+      m_Items: []
+  - m_Id: 717651863060480
+    m_Key: BuyLife_banner_game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790095558361088
+    m_Key: Setting_Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790186889330688
+    m_Key: Setting_Sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1791449571966976
+    m_Key: Setting_Vibration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1791452658974720
+    m_Key: Setting_Hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1813154306637824
+    m_Key: Setting_Btn_Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1813157431394304
+    m_Key: Setting_Btn_Support
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2523130826244096
+    m_Key: Profile_Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2523194063765504
+    m_Key: Profile_Stats_Banner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2523450520289280
+    m_Key: Profile_Stats_Help
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2523550684463104
+    m_Key: Profile_Stats_FTWin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2523671610441728
+    m_Key: Profile_Stats_HelpRcv
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2524106643652608
+    m_Key: Profile_Stats_Areas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2524230727942144
+    m_Key: Profile_Stats_Sets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2524292065443840
+    m_Key: Profile_Stats_Cards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2571833377210368
+    m_Key: Save_Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2571883457200128
+    m_Key: Profile_Edit_Banner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2572001665269760
+    m_Key: Profile_Edit_Avatar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2572043880939520
+    m_Key: Profile_Edit_Frame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2572106359291904
+    m_Key: Profile_Edit_Theme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2934516815413248
+    m_Key: Profile_Quit_Edit_Banner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2934658578694144
+    m_Key: Profile_Quit_Edit_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3169297935286272
+    m_Key: Change_Name_Banner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3169378931490816
+    m_Key: Change_Name_Ask
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3169533852303360
+    m_Key: Change_Name_Hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3169606493454336
+    m_Key: Change_Name_Length
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3169738265903104
+    m_Key: Continue_Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3186543017508864
+    m_Key: Change_Name_Banner_First
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3260881750114304
+    m_Key: Star_Hint_Banner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3260975396339712
+    m_Key: Star_Hint_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3270866466947072
+    m_Key: WinStreak_Banner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3278632355020800
+    m_Key: WinStreak_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3304991940853760
+    m_Key: BuildButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4359159724032000
+    m_Key: Revive_Banner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4359260190195712
+    m_Key: Revive_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4359327936593920
+    m_Key: Revive_Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4359371758682112
+    m_Key: Revive_Lose_Progress
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4701225553412096
+    m_Key: New_Area_Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4719291981021184
+    m_Key: New_Area_Banner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4719367101005824
+    m_Key: Unlock_Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6807907095986176
+    m_Key: FullLifeWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6808162038366208
+    m_Key: NameWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8709922621407232
+    m_Key: NameCharWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9714018337865728
+    m_Key: Claim_Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9748667537735680
+    m_Key: Unlock_Banner
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7302318999008968708
+  references:
+    version: 2
+    RefIds:
+    - rid: 7302318999008968708
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1719388277669

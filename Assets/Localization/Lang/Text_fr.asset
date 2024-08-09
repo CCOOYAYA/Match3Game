@@ -1,0 +1,203 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Text_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 5afc7817261a7b341a3a6ddb52342acd, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7664429875200
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7747691003904
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8373783150592
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8498270093312
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8880727703552
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8789996519424
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9009706745856
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9101075464192
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9223784022016
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9264787537920
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9434472300544
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9375114510336
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9530874183680
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9591406379008
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14109791666176
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18711492608000
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29178973831168
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29181314252800
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29426425184256
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29451922358272
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29498697236480
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30542177157120
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 339840195280896
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 344046067171328
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 344633471057920
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 357962788814848
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 357970405670912
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 357971546521600
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 358438460637184
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 358440973025280
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 358442680107008
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369031989084160
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369035474550784
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380505742557184
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 696826711687168
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 696901357715456
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 696928905904128
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 717523160842240
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 717651863060480
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790095558361088
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790186889330688
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1791449571966976
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1791452658974720
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1813154306637824
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1813157431394304
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

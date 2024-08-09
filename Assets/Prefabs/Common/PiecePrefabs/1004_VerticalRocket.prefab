@@ -1,0 +1,205 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5492961026004469818
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6359199657816382397}
+  - component: {fileID: 7512315116210818249}
+  - component: {fileID: 2145745629604970759}
+  - component: {fileID: 5219319708851708701}
+  - component: {fileID: 8620612551972309421}
+  - component: {fileID: 945837880663792416}
+  m_Layer: 0
+  m_Name: 1004_VerticalRocket
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6359199657816382397
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5492961026004469818}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!210 &7512315116210818249
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5492961026004469818}
+  m_Enabled: 1
+  m_SortingLayerID: -501131843
+  m_SortingLayer: 4
+  m_SortingOrder: 1004
+  m_SortAtRoot: 0
+--- !u!33 &2145745629604970759
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5492961026004469818}
+  m_Mesh: {fileID: 0}
+--- !u!23 &5219319708851708701
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5492961026004469818}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: f497573bc5a77394d8faadd41f10df83, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &8620612551972309421
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5492961026004469818}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skeletonDataAsset: {fileID: 11400000, guid: 2351015ea1a61d74b8ad44d59a2abf35, type: 2}
+  initialSkinName: 
+  fixPrefabOverrideViaMeshFilter: 2
+  initialFlipX: 0
+  initialFlipY: 0
+  updateWhenInvisible: 3
+  separatorSlotNames: []
+  zSpacing: 0
+  useClipping: 1
+  immutableTriangles: 0
+  pmaVertexColors: 1
+  clearStateOnDisable: 0
+  tintBlack: 0
+  singleSubmesh: 0
+  fixDrawOrder: 0
+  addNormals: 0
+  calculateTangents: 0
+  maskInteraction: 0
+  maskMaterials:
+    materialsMaskDisabled: []
+    materialsInsideMask: []
+    materialsOutsideMask: []
+  disableRenderingOnOverride: 1
+  updateTiming: 1
+  unscaledTime: 0
+  _animationName: ani_idle
+  loop: 1
+  timeScale: 1
+--- !u!114 &945837880663792416
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5492961026004469818}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e996fdbcbe40ea446b526b73ba071ff5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 1004
+  pieceDefaultSortingLayerName: 
+  pieceDefaultSortingOrder: 0
+  pieceConfigSO: {fileID: 11400000, guid: 5d999575af019ca48a393f9d5f4e25fc, type: 2}
+  shapes:
+  - canMirror: 1
+    canRotate: 0
+    positionList:
+    - X: 0
+      Y: 0
+    - X: 1
+      Y: 0
+    - X: 2
+      Y: 0
+    - X: 3
+      Y: 0
+    centerPosition:
+      X: 1
+      Y: 0
+    bounds:
+      x: 0
+      y: 0
+      width: 3
+      height: 0
+  coreShapes:
+  - canMirror: 0
+    canRotate: 0
+    positionList:
+    - X: 0
+      Y: 0
+    - X: 1
+      Y: 0
+    - X: 2
+      Y: 0
+    - X: 3
+      Y: 0
+    centerPosition:
+      X: 1
+      Y: 0
+    bounds:
+      x: 0
+      y: 0
+      width: 3
+      height: 0
+  activateAudio: {fileID: 0}
+  vertical: 1
+  standaloneActivateScore: 100
+  rocketVFX: {fileID: 8054601465800921384, guid: fd70a2b3510d75b4086e1b344e90a3a1, type: 3}
+  rainbowSpawnAnimation: {fileID: 11400000, guid: 91a0383e86531584993c268d80f0929d, type: 2}
+  boostSpawnAnimation: {fileID: 11400000, guid: cb4df2e6b4040e94bacebc085ba68dd2, type: 2}
+  streakSpawnAnimation: {fileID: 11400000, guid: 23679e67e2a543146a6a9659b1e88ac6, type: 2}
+  rainbowIdleAnimation: {fileID: 11400000, guid: 5548ada85ea34034fb74262fe9b59e41, type: 2}
+  rocketBombCombineVFX: {fileID: 7327508175880348654, guid: 9153f965c3c7e2c40a95cc3bb41953af, type: 3}

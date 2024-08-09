@@ -1,0 +1,13 @@
+vfx_swap.png
+size:198,176
+filter:Linear,Linear
+pma:true
+bggg
+bounds:2,2,106,106
+offsets:7,9,121,122
+tsgg
+bounds:2,110,152,64
+offsets:5,2,162,67
+xx
+bounds:110,21,86,87
+offsets:4,4,94,95

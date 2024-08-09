@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57dc789049fcec341807761120cc6faf, type: 3}
+  m_Name: AreaInfoListSO
+  m_EditorClassIdentifier: 
+  areaInfos:
+  - name:
+      m_TableReference:
+        m_TableCollectionName: GUID:114b96f563b2bf84b8a0ee124fb0c7e3
+      m_TableEntryReference:
+        m_KeyId: 66955689984
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    emptySprite: {fileID: 21300000, guid: feff152b5c0631c4b81b3e05fc96bb0a, type: 3}
+    completeSprite: {fileID: 21300000, guid: 54cfb190b59a81b438056c421d7152ae, type: 3}
+    lockSprite: {fileID: 21300000, guid: 2485463f0abc95c4d9930ba3fadb8d6d, type: 3}
+  - name:
+      m_TableReference:
+        m_TableCollectionName: GUID:114b96f563b2bf84b8a0ee124fb0c7e3
+      m_TableEntryReference:
+        m_KeyId: 183259545600
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    emptySprite: {fileID: 21300000, guid: 579361567d6faad4db2c2863cd5bac12, type: 3}
+    completeSprite: {fileID: 21300000, guid: c3a35090b40c20446b5f1a759a9a6b52, type: 3}
+    lockSprite: {fileID: 21300000, guid: 9056eb799d00aa34d93a71e91448cb1e, type: 3}
+  - name:
+      m_TableReference:
+        m_TableCollectionName: GUID:114b96f563b2bf84b8a0ee124fb0c7e3
+      m_TableEntryReference:
+        m_KeyId: 136451112960
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    emptySprite: {fileID: 21300000, guid: d4af73e00c57d51479f88b95e0e1aab9, type: 3}
+    completeSprite: {fileID: 21300000, guid: a323ffd56b66a8d449b3a60a3ec3a008, type: 3}
+    lockSprite: {fileID: 21300000, guid: bab925b01c986f44b9434abcc8c7728e, type: 3}
+  unlockedbg: {fileID: 21300000, guid: b41cca169986b3f45a3084110eeb36ef, type: 3}
+  lockedbg: {fileID: 21300000, guid: 33aae5449f057b74fb2388f93664b670, type: 3}
+  unlockedbanner: {fileID: 21300000, guid: b419b54831c7d474b8a2c2274f4ec4f9, type: 3}
+  lockedbanner: {fileID: 21300000, guid: a52aae2c24a39ac44be6f267513acaac, type: 3}
+  unlockedFontMat: {fileID: 2100000, guid: 791873c87e454264980dfbcdc3fc8f2a, type: 2}
+  lockedFontMat: {fileID: 2100000, guid: 7426b4f70e9151845a4bc4a02a50e2b5, type: 2}
+  unlockedNoColor: {r: 0.7647059, g: 0.33333334, b: 0, a: 1}
+  lockedNoColor: {r: 0.29803923, g: 0.3529412, b: 0.43137255, a: 1}
+  lockedNameColor: {r: 0.92156863, g: 0.9137255, b: 0.91764706, a: 1}
+  references:
+    version: 2
+    RefIds: []

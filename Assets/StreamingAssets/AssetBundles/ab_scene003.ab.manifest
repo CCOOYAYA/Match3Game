@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 493299444
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ced638b1408caeb473d6a9d055ed163
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4b05a98f5934af500d13e41b5bbc6f19
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4ced638b1408caeb473d6a9d055ed163
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.BlendModeMaterials
+Assets:
+- Assets/Artwork/Spine/Build/Scenes/003/build_scene003_01.skel.bytes
+- Assets/Artwork/Spine/Build/Scenes/003/build_scene003_02_Material.mat
+- Assets/Artwork/Spine/Build/Scenes/003/build_scene003_05.atlas.txt
+- Assets/Artwork/Spine/Build/Scenes/003/building_003.png
+- Assets/Artwork/Spine/Build/Scenes/003/build_scene003_04.png
+- Assets/Artwork/Spine/Build/Scenes/003/build_scene003_04.skel.bytes
+- Assets/Artwork/Spine/Build/Scenes/003/build_scene003_03_SkeletonData.asset
+- Assets/Artwork/Spine/Build/Scenes/003/build_scene003_05_Atlas.asset
+- Assets/Artwork/Spine/Build/Scenes/003/build_scene003_03_Atlas.asset
+- Assets/Artwork/Spine/Build/Scenes/003/build_scene003_02_SkeletonData.asset
+- Assets/Artwork/Spine/Build/Scenes/003/build_scene003_01_Material.mat
+- Assets/Artwork/Spine/Build/Scenes/003/build_scene003_05.png
+- Assets/Artwork/Spine/Build/Scenes/003/build_scene003_01_SkeletonData.asset
+- Assets/Artwork/Spine/Build/Scenes/003/build_scene003_02.png
+- Assets/Artwork/Spine/Build/Scenes/003/build_scene003_03.skel.bytes
+- Assets/Artwork/Spine/Build/Scenes/003/build_scene003_04.atlas.txt
+- Assets/Artwork/Spine/Build/Scenes/003/building_003_SkeletonData.asset
+- Assets/Artwork/Spine/Build/Scenes/003/build_scene003_04_SkeletonData.asset
+- Assets/Artwork/Spine/Build/Scenes/003/build_scene003_03.atlas.txt
+- Assets/Artwork/Spine/Build/Scenes/003/build_scene003_03.png
+- Assets/Artwork/Spine/Build/Scenes/003/building_003_Atlas.asset
+- Assets/Artwork/Spine/Build/Scenes/003/build_scene003_02.atlas.txt
+- Assets/Artwork/Spine/Build/Scenes/003/building_003.skel.bytes
+- Assets/Artwork/Spine/Build/Scenes/003/build_scene003_05.skel.bytes
+- Assets/Artwork/Spine/Build/Scenes/003/building_003_Material.mat
+- Assets/Artwork/Spine/Build/Scenes/003/build_scene003_01.atlas.txt
+- Assets/Artwork/Spine/Build/Scenes/003/build_scene003_02_Atlas.asset
+- Assets/Artwork/Spine/Build/Scenes/003/build_scene003_04_Material.mat
+- Assets/Artwork/Spine/Build/Scenes/003/build_scene003_05_SkeletonData.asset
+- Assets/Artwork/Spine/Build/Scenes/003/build_scene003_01_Atlas.asset
+- Assets/Artwork/Spine/Build/Scenes/003/build_scene003_02.skel.bytes
+- Assets/Artwork/Spine/Build/Scenes/003/build_scene003_01.png
+- Assets/Artwork/Spine/Build/Scenes/003/build_scene003_04_Atlas.asset
+- Assets/Artwork/Spine/Build/Scenes/003/building_003.atlas.txt
+- Assets/Artwork/Spine/Build/Scenes/003/build_scene003_05_Material.mat
+- Assets/Artwork/Spine/Build/Scenes/003/build_scene003_03_Material.mat
+Dependencies: []

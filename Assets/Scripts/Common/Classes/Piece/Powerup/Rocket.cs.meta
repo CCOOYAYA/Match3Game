@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e996fdbcbe40ea446b526b73ba071ff5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - triggerSound: {instanceID: 0}
+  - rocketVFX: {fileID: 8054601465800921384, guid: fd70a2b3510d75b4086e1b344e90a3a1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

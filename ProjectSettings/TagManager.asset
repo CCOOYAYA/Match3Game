@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Piece
+  - Slot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackgroundUICanvas
+    uniqueID: 2334378369
+    locked: 0
+  - name: FloorAndFrame
+    uniqueID: 3391722161
+    locked: 0
+  - name: BottomPiece
+    uniqueID: 1435469523
+    locked: 0
+  - name: CenterPiece
+    uniqueID: 3793835453
+    locked: 0
+  - name: UpperPiece
+    uniqueID: 337572413
+    locked: 0
+  - name: VFX
+    uniqueID: 4218512701
+    locked: 0
+  - name: ForegroundUICanvas
+    uniqueID: 2796678449
+    locked: 0
+  - name: CollectObj
+    uniqueID: 3027766063
+    locked: 0
+  - name: PopupUICanvas
+    uniqueID: 661073659
+    locked: 0
+  - name: DebugOverlay
+    uniqueID: 4193897801
+    locked: 0

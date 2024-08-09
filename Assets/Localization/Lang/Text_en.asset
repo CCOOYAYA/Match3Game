@@ -1,0 +1,385 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Text_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 5afc7817261a7b341a3a6ddb52342acd, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 7302319112408006656
+  m_TableData:
+  - m_Id: 7664429875200
+    m_Localized: Rocket
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7747691003904
+    m_Localized: 'Generate a Rocket on the board
+
+      at the beginning of the level'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8373783150592
+    m_Localized: Bomb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8498270093312
+    m_Localized: 'Start the level with a TNT
+
+      on the board!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8789996519424
+    m_Localized: Light ball
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8880727703552
+    m_Localized: 'Start the level with a Light Ball
+
+      on the board!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9009706745856
+    m_Localized: Hammer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9101075464192
+    m_Localized: Clears any object on the board!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9223784022016
+    m_Localized: Gun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9264787537920
+    m_Localized: Clears all the objects in a row!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9375114510336
+    m_Localized: Cannon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9434472300544
+    m_Localized: Clears all the objects in a column!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9530874183680
+    m_Localized: Dice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9591406379008
+    m_Localized: 'Shuffles all the objects
+
+      on the board!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14109791666176
+    m_Localized: Buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18711492608000
+    m_Localized: Level {0}
+    m_Metadata:
+      m_Items:
+      - rid: 7302319112408006656
+  - m_Id: 29178973831168
+    m_Localized: Hard Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29181314252800
+    m_Localized: Super Hard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29426425184256
+    m_Localized: Goal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29451922358272
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29498697236480
+    m_Localized: 'Select Boosters:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30542177157120
+    m_Localized: Reward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 339840195280896
+    m_Localized: Any purchase removes Ads.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 344046067171328
+    m_Localized: 'Only
+
+      one chance!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 344633471057920
+    m_Localized: '700%
+
+      MORE'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 357962788814848
+    m_Localized: Starter Bundle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 357970405670912
+    m_Localized: Valued Bundle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 357971546521600
+    m_Localized: Premium Bundle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 358438460637184
+    m_Localized: Luxury Bundle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 358440973025280
+    m_Localized: Legendary Bundle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 358442680107008
+    m_Localized: Supreme Bundle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369035474550784
+    m_Localized: Best Value
+    m_Metadata:
+      m_Items: []
+  - m_Id: 369031989084160
+    m_Localized: Most Popular
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380505742557184
+    m_Localized: More Offers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 696928905904128
+    m_Localized: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 696901357715456
+    m_Localized: Quit Level?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 696826711687168
+    m_Localized: You will lose a life!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 717523160842240
+    m_Localized: More Lives!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 717651863060480
+    m_Localized: No More Lives!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790095558361088
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1790186889330688
+    m_Localized: Sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1791449571966976
+    m_Localized: Vibration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1791452658974720
+    m_Localized: Hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1813154306637824
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1813157431394304
+    m_Localized: Support
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2523130826244096
+    m_Localized: Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2523194063765504
+    m_Localized: General Stats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2523450520289280
+    m_Localized: Helps Made
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2523550684463104
+    m_Localized: First Try Wins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2523671610441728
+    m_Localized: Helps Received
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2524106643652608
+    m_Localized: Areas Completed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2524230727942144
+    m_Localized: Sets Completed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2524292065443840
+    m_Localized: Cards Found
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2571833377210368
+    m_Localized: Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2571883457200128
+    m_Localized: Edit Profile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2572001665269760
+    m_Localized: Avatar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2572043880939520
+    m_Localized: Frame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2572106359291904
+    m_Localized: Theme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2934516815413248
+    m_Localized: Quit Editing?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2934658578694144
+    m_Localized: 'Do you want to save
+
+      your changes before
+
+      quitting?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3169297935286272
+    m_Localized: Change Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3169378931490816
+    m_Localized: What is your name?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3169533852303360
+    m_Localized: Type your new name...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3169606493454336
+    m_Localized: 3-12 characters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3169738265903104
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3186543017508864
+    m_Localized: Enter Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3260881750114304
+    m_Localized: Earn Stars
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3260975396339712
+    m_Localized: Beat levels to earn stars
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3270866466947072
+    m_Localized: Butler's Gift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3278632355020800
+    m_Localized: 'Beat levels on your first try to start
+
+      the next level with
+      power-ups!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3304991940853760
+    m_Localized: Area {0}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4359159724032000
+    m_Localized: Continue?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4359260190195712
+    m_Localized: Add 5 moves to keep playing!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4359327936593920
+    m_Localized: Play on
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4359371758682112
+    m_Localized: 'You will lose your
+
+      <color="red">Butlter''s Gift</color> 
+      and
+
+      <color="red">Hat</color>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4701225553412096
+    m_Localized: New Area
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4719291981021184
+    m_Localized: New Area!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4719367101005824
+    m_Localized: Unlock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6807907095986176
+    m_Localized: Your lives are full!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6808162038366208
+    m_Localized: 3~12 characters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8709922621407232
+    m_Localized: "Only English letters, numbers, \nand spaces are available."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9714018337865728
+    m_Localized: Claim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9748667537735680
+    m_Localized: Unlocked!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 7302319112408006656
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00c0de9b04110000
